@@ -1,6 +1,6 @@
 # To-Do List
 
-a To-Do List using CSS, Javascript, Node.js, Express, EJS and connected to a database using MongoDb.
+A To-Do List using CSS, Javascript, Node.js, Express, EJS and connected locally to a MongoDB server using Mongoose.
 
 Allows you to add and delete tasks and create your own custom to-do list.
 

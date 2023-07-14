@@ -19,17 +19,12 @@ Allows you to add and delete tasks and create your own custom to-do list.
 
 ## Run Locally
 
-Go to the project directory
-
-```bash
-  cd my-project
-```
+Clone the project and go to the project directory
 
 Install dependencies
 
 ```bash
   npm install
-  npm i express body-parser ejs mongoose lodash
 ```
 
 Start the server
